@@ -2,7 +2,9 @@
 This is a python script to control a niryo robotic arm with haptic geomagic touch (phantom omni)
 Tested system: ubuntun 16.04 & ROS kinetic
 
-1)You need at first to install phantom omni package in your workspace following the stpes described in this link: https://github.com/fsuarez6/phantom_omni
+1)You need at first to install phantom omni package in your workspace following the stpes described in this link: 
+
+https://github.com/fsuarez6/phantom_omni
 
 2)Copy this project into your workspace
 
