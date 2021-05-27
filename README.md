@@ -6,11 +6,11 @@ Tested system: ubuntun 16.04 & ROS kinetic
 
 https://github.com/fsuarez6/phantom_omni
 
-2)Copy this project into your workspace
+2) Copy this project into your workspace
 
 3) catkin_make
     
-4)roslaunch geomagic_control geomagic.launch
+4) roslaunch geomagic_control geomagic.launch
 
 5) rosrun niryo_haptic_control niryo_haptic_control.py
     
