@@ -11,3 +11,5 @@ Tested system: ubuntun 16.04 & ROS kinetic
     4)roslaunch geomagic_control geomagic.launch
 
     5) rosrun niryo_haptic_control niryo_haptic_control.py
+    
+    Video link: https://www.youtube.com/watch?v=w8cuW6sPWIE
